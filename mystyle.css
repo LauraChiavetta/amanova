@@ -1,0 +1,42 @@
+#logo{
+    width:90%;
+}
+.navbar-brand{
+    width: 15%;
+}
+.nav-item{
+    padding-left:40px;
+}
+#whatsapp{
+    width: 4%;
+}
+.black{
+    color: black;
+}
+
+.centro{
+    margin-top: 15px;
+text-align: center;
+}
+#paragraph{
+    
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+    width: 95%;
+    font-size: 15px;
+    
+    
+}
+#px{
+    
+font-size: 30px;
+}
+#venduti{
+    background-color:  rgb(214, 214, 214)blue;
+}
+h5{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
